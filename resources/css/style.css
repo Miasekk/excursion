@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    width: 1200px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+img.main {
+    display:block;
+    width: 600px;
+    margin: 0 auto;
+}
+
+img.logo {
+    display:block;
+    width: 100px;
+    margin: 0 auto;
+}
+
+video {
+    display:block;
+    width: 404 px;
+    margin: 0 auto;
+}
+
+.footer {
+    text-align: right;
+}
